@@ -71,3 +71,6 @@ section{
     display: flex;
     }
 }
+span{
+    color: lightcoral;
+}
