@@ -2,17 +2,17 @@ document.getElementById('nav-toggle'),addEventListener('click', function(){
     document.querySelector('nav').classList.toggle('nav-open');
 });
 function Expectativas(texto){
-    alert(text);
+    alert(texto);
 }
 function Capitulos(texto){
-    alert(text);
+    alert(texto);
 }
 function Servidores(texto){
-    alert(text);
+    alert(texto);
 }
 function Expectativas(texto){
-    alert(text);
+    alert(texto);
 }
 function Recuerda(texto){
-    alert(text);
+    alert(texto);
 }
